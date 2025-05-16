@@ -1,0 +1,2689 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\DoclinicBack.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DoclinicBack.qrwuaxuw7s.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\css\\color_theme.css",
+      "PackagePath": "staticwebassets\\css\\color_theme.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\css\\demo-6.css",
+      "PackagePath": "staticwebassets\\css\\demo-6.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\css\\demo-7.css",
+      "PackagePath": "staticwebassets\\css\\demo-7.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\css\\skin_color.css",
+      "PackagePath": "staticwebassets\\css\\skin_color.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\css\\style_rtl.css",
+      "PackagePath": "staticwebassets\\css\\style_rtl.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\css\\vendors_css.css",
+      "PackagePath": "staticwebassets\\css\\vendors_css.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\jquery.ui.touch-punch.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.ui.touch-punch.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\advanced-form-element.js",
+      "PackagePath": "staticwebassets\\js\\pages\\advanced-form-element.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\app-contact.js",
+      "PackagePath": "staticwebassets\\js\\pages\\app-contact.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\app-ticket.js",
+      "PackagePath": "staticwebassets\\js\\pages\\app-ticket.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\c3-axis.js",
+      "PackagePath": "staticwebassets\\js\\pages\\c3-axis.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\c3-bar-pie.js",
+      "PackagePath": "staticwebassets\\js\\pages\\c3-bar-pie.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\c3-data.js",
+      "PackagePath": "staticwebassets\\js\\pages\\c3-data.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\c3-line.js",
+      "PackagePath": "staticwebassets\\js\\pages\\c3-line.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\c3-multi-xy-line.js",
+      "PackagePath": "staticwebassets\\js\\pages\\c3-multi-xy-line.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\c3-stap-line.js",
+      "PackagePath": "staticwebassets\\js\\pages\\c3-stap-line.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\calendar.js",
+      "PackagePath": "staticwebassets\\js\\pages\\calendar.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\chart-widgets.js",
+      "PackagePath": "staticwebassets\\js\\pages\\chart-widgets.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\chartjs-int.js",
+      "PackagePath": "staticwebassets\\js\\pages\\chartjs-int.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\chat-popup.js",
+      "PackagePath": "staticwebassets\\js\\pages\\chat-popup.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\component-animations-css3.js",
+      "PackagePath": "staticwebassets\\js\\pages\\component-animations-css3.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\component-rating-init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\component-rating-init.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\coundown-timer.js",
+      "PackagePath": "staticwebassets\\js\\pages\\coundown-timer.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\custom-scroll.js",
+      "PackagePath": "staticwebassets\\js\\pages\\custom-scroll.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\dashboard2.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboard2.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\dashboard3.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboard3.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\dashboard4.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboard4.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\dashboard5.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboard5.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\dashboard6.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboard6.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\dashboard7.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboard7.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\data-table.js",
+      "PackagePath": "staticwebassets\\js\\pages\\data-table.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\date-paginator.js",
+      "PackagePath": "staticwebassets\\js\\pages\\date-paginator.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\doctor-details.js",
+      "PackagePath": "staticwebassets\\js\\pages\\doctor-details.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\echart-bar.js",
+      "PackagePath": "staticwebassets\\js\\pages\\echart-bar.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\echart-line-charts.js",
+      "PackagePath": "staticwebassets\\js\\pages\\echart-line-charts.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\echart-pie-doghnut.js",
+      "PackagePath": "staticwebassets\\js\\pages\\echart-pie-doghnut.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\ecommerce_details.js",
+      "PackagePath": "staticwebassets\\js\\pages\\ecommerce_details.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\editable-tables.js",
+      "PackagePath": "staticwebassets\\js\\pages\\editable-tables.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\editor.js",
+      "PackagePath": "staticwebassets\\js\\pages\\editor.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\extra_taskboard.js",
+      "PackagePath": "staticwebassets\\js\\pages\\extra_taskboard.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\form-code-editor.js",
+      "PackagePath": "staticwebassets\\js\\pages\\form-code-editor.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\form-compose.js",
+      "PackagePath": "staticwebassets\\js\\pages\\form-compose.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\form-validation.js",
+      "PackagePath": "staticwebassets\\js\\pages\\form-validation.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\form-x-editable.js",
+      "PackagePath": "staticwebassets\\js\\pages\\form-x-editable.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\formatter.js",
+      "PackagePath": "staticwebassets\\js\\pages\\formatter.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\fullscreen.js",
+      "PackagePath": "staticwebassets\\js\\pages\\fullscreen.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\gallery.js",
+      "PackagePath": "staticwebassets\\js\\pages\\gallery.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\gridstackjs.js",
+      "PackagePath": "staticwebassets\\js\\pages\\gridstackjs.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\icons.js",
+      "PackagePath": "staticwebassets\\js\\pages\\icons.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\invoice.js",
+      "PackagePath": "staticwebassets\\js\\pages\\invoice.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\list.js",
+      "PackagePath": "staticwebassets\\js\\pages\\list.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\mailbox.js",
+      "PackagePath": "staticwebassets\\js\\pages\\mailbox.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\media.js",
+      "PackagePath": "staticwebassets\\js\\pages\\media.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\nestable.js",
+      "PackagePath": "staticwebassets\\js\\pages\\nestable.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\notification.js",
+      "PackagePath": "staticwebassets\\js\\pages\\notification.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\pace.js",
+      "PackagePath": "staticwebassets\\js\\pages\\pace.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\patient-details.js",
+      "PackagePath": "staticwebassets\\js\\pages\\patient-details.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\patients.js",
+      "PackagePath": "staticwebassets\\js\\pages\\patients.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\peity.js",
+      "PackagePath": "staticwebassets\\js\\pages\\peity.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\range-sliders.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\range-sliders.init.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\slider.js",
+      "PackagePath": "staticwebassets\\js\\pages\\slider.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\statistic.js",
+      "PackagePath": "staticwebassets\\js\\pages\\statistic.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\steps.js",
+      "PackagePath": "staticwebassets\\js\\pages\\steps.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\timeline.js",
+      "PackagePath": "staticwebassets\\js\\pages\\timeline.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\toastr.js",
+      "PackagePath": "staticwebassets\\js\\pages\\toastr.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\validation.js",
+      "PackagePath": "staticwebassets\\js\\pages\\validation.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\weather.js",
+      "PackagePath": "staticwebassets\\js\\pages\\weather.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\widget-blog.js",
+      "PackagePath": "staticwebassets\\js\\pages\\widget-blog.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\widget-chartist.js",
+      "PackagePath": "staticwebassets\\js\\pages\\widget-chartist.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\widget-charts2.js",
+      "PackagePath": "staticwebassets\\js\\pages\\widget-charts2.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\widget-flot-charts.js",
+      "PackagePath": "staticwebassets\\js\\pages\\widget-flot-charts.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\widget-inline-charts.js",
+      "PackagePath": "staticwebassets\\js\\pages\\widget-inline-charts.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\widget-morris-charts.js",
+      "PackagePath": "staticwebassets\\js\\pages\\widget-morris-charts.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\pages\\widgets.js",
+      "PackagePath": "staticwebassets\\js\\pages\\widgets.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\template.js",
+      "PackagePath": "staticwebassets\\js\\template.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\js\\vendors.min.js",
+      "PackagePath": "staticwebassets\\js\\vendors.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\icons\\Ionicons\\css\\ionicons.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\icons\\Ionicons\\css\\ionicons.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\icons\\cryptocoins-master\\cryptocoins.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\icons\\cryptocoins-master\\cryptocoins.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\icons\\feather-icons\\feather.min.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\icons\\feather-icons\\feather.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\icons\\flag-icon-css\\css\\flag-icon.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\icons\\flag-icon-css\\css\\flag-icon.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\icons\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\icons\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\icons\\glyphicons\\glyphicon.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\icons\\glyphicons\\glyphicon.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\icons\\icomoon\\style.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\icons\\icomoon\\style.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\icons\\iconsmind\\style.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\icons\\iconsmind\\style.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\icons\\linea-icons\\linea.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\icons\\linea-icons\\linea.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\icons\\material-design-iconic-font\\css\\materialdesignicons.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\icons\\material-design-iconic-font\\css\\materialdesignicons.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\icons\\simple-line-icons\\css\\simple-line-icons.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\icons\\simple-line-icons\\css\\simple-line-icons.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\icons\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\icons\\themify-icons\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\icons\\weather-icons\\css\\weather-icons.min.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\icons\\weather-icons\\css\\weather-icons.min.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\Flot\\jquery.flot.categories.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\Flot\\jquery.flot.categories.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\Flot\\jquery.flot.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\Flot\\jquery.flot.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\Flot\\jquery.flot.pie.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\Flot\\jquery.flot.pie.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\Flot\\jquery.flot.resize.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\Flot\\jquery.flot.resize.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\Magnific-Popup-master\\dist\\jquery.magnific-popup-init.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\Magnific-Popup-master\\dist\\jquery.magnific-popup-init.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\Magnific-Popup-master\\dist\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\Magnific-Popup-master\\dist\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\Magnific-Popup-master\\dist\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\Magnific-Popup-master\\dist\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\OwlCarousel2\\dist\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\OwlCarousel2\\dist\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\OwlCarousel2\\dist\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\OwlCarousel2\\dist\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\OwlCarousel2\\dist\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\OwlCarousel2\\dist\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\PACE\\pace.min.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\PACE\\pace.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\apexcharts-bundle\\dist\\apexcharts.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\apexcharts-bundle\\dist\\apexcharts.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\bootstrap-colorpicker\\dist\\css\\bootstrap-colorpicker.min.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\bootstrap-colorpicker\\dist\\css\\bootstrap-colorpicker.min.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\bootstrap-colorpicker\\dist\\js\\bootstrap-colorpicker.min.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\bootstrap-colorpicker\\dist\\js\\bootstrap-colorpicker.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\bootstrap-datepicker\\dist\\css\\bootstrap-datepicker.min.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\bootstrap-datepicker\\dist\\css\\bootstrap-datepicker.min.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\bootstrap-datepicker\\dist\\js\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\bootstrap-datepicker\\dist\\js\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\bootstrap-daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\bootstrap-daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\bootstrap-daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\bootstrap-daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\bootstrap-markdown-master\\css\\bootstrap-markdown.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\bootstrap-markdown-master\\css\\bootstrap-markdown.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\bootstrap-markdown-master\\js\\bootstrap-markdown.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\bootstrap-markdown-master\\js\\bootstrap-markdown.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\bootstrap-select\\dist\\css\\bootstrap-select.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\bootstrap-select\\dist\\css\\bootstrap-select.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\bootstrap-select\\dist\\js\\bootstrap-select.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\bootstrap-select\\dist\\js\\bootstrap-select.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\bootstrap-switch\\switch.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\bootstrap-switch\\switch.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\bootstrap-tagsinput\\dist\\bootstrap-tagsinput.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\bootstrap-tagsinput\\dist\\bootstrap-tagsinput.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\bootstrap-tagsinput\\dist\\bootstrap-tagsinput.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\bootstrap-tagsinput\\dist\\bootstrap-tagsinput.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\bootstrap-touchspin\\dist\\jquery.bootstrap-touchspin.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\bootstrap-touchspin\\dist\\jquery.bootstrap-touchspin.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\bootstrap-touchspin\\dist\\jquery.bootstrap-touchspin.min.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\bootstrap-touchspin\\dist\\jquery.bootstrap-touchspin.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\c3\\c3.min.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\c3\\c3.min.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\c3\\c3.min.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\c3\\c3.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\c3\\d3.min.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\c3\\d3.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\chart.js-master\\Chart.min.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\chart.js-master\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\chartist-js-develop\\chartist.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\chartist-js-develop\\chartist.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\chartist-js-develop\\chartist.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\chartist-js-develop\\chartist.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\ckeditor\\ckeditor.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\ckeditor\\ckeditor.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\d3\\d3.min.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\d3\\d3.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\d3\\d3_tooltip.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\d3\\d3_tooltip.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\datatable\\datatables.min.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\datatable\\datatables.min.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\datatable\\datatables.min.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\datatable\\datatables.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\date-paginator\\bootstrap-datepaginator.min.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\date-paginator\\bootstrap-datepaginator.min.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\date-paginator\\bootstrap-datepaginator.min.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\date-paginator\\bootstrap-datepaginator.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\date-paginator\\moment.min.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\date-paginator\\moment.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\dropzone\\dropzone.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\dropzone\\dropzone.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\dropzone\\dropzone.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\dropzone\\dropzone.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\easypiechart\\dist\\jquery.easypiechart.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\easypiechart\\dist\\jquery.easypiechart.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\echarts\\dist\\echarts-en.min.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\echarts\\dist\\echarts-en.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\flat-color-icons\\SVG\\alarm_clock.svg",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\flat-color-icons\\SVG\\alarm_clock.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\flat-color-icons\\SVG\\calculator.svg",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\flat-color-icons\\SVG\\calculator.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\flat-color-icons\\SVG\\compact_camera.svg",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\flat-color-icons\\SVG\\compact_camera.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\flat-color-icons\\SVG\\contacts.svg",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\flat-color-icons\\SVG\\contacts.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\flat-color-icons\\SVG\\download.svg",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\flat-color-icons\\SVG\\download.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\flat-color-icons\\SVG\\folder.svg",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\flat-color-icons\\SVG\\folder.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\flat-color-icons\\SVG\\music.svg",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\flat-color-icons\\SVG\\music.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\flat-color-icons\\SVG\\news.svg",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\flat-color-icons\\SVG\\news.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\flat-color-icons\\SVG\\phone.svg",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\flat-color-icons\\SVG\\phone.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\flat-color-icons\\SVG\\settings.svg",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\flat-color-icons\\SVG\\settings.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\flat-color-icons\\SVG\\stack_of_photos.svg",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\flat-color-icons\\SVG\\stack_of_photos.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\flat-color-icons\\SVG\\start.svg",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\flat-color-icons\\SVG\\start.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\flexslider\\flexslider.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\flexslider\\flexslider.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\flexslider\\jquery.flexslider.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\flexslider\\jquery.flexslider.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\formatter\\formatter.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\formatter\\formatter.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\formatter\\jquery.formatter.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\formatter\\jquery.formatter.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\fullcalendar\\fullcalendar.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\fullcalendar\\fullcalendar.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\fullcalendar\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\fullcalendar\\fullcalendar.min.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\fullcalendar\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\fullcalendar\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\fullcalendar\\lib\\moment.min.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\fullcalendar\\lib\\moment.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\gallery\\css\\animated-masonry-gallery.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\gallery\\css\\animated-masonry-gallery.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\gallery\\js\\animated-masonry-gallery.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\gallery\\js\\animated-masonry-gallery.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\gallery\\js\\jquery.isotope.min.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\gallery\\js\\jquery.isotope.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\gmaps\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\gmaps\\gmaps.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\gmaps\\jquery.gmaps.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\gmaps\\jquery.gmaps.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\gridstack\\gridstack.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\gridstack\\gridstack.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\gridstack\\gridstack.jQueryUI.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\gridstack\\gridstack.jQueryUI.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\gridstack\\gridstack.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\gridstack\\gridstack.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\gridstack\\lodash.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\gridstack\\lodash.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\horizontal-timeline\\css\\horizontal-timeline.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\horizontal-timeline\\css\\horizontal-timeline.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\horizontal-timeline\\js\\horizontal-timeline.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\horizontal-timeline\\js\\horizontal-timeline.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\ion-rangeSlider\\css\\ion.rangeSlider.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\ion-rangeSlider\\css\\ion.rangeSlider.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\ion-rangeSlider\\css\\ion.rangeSlider.skinModern.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\ion-rangeSlider\\css\\ion.rangeSlider.skinModern.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\ion-rangeSlider\\js\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\ion-rangeSlider\\js\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\jquery-knob\\js\\jquery.knob.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\jquery-knob\\js\\jquery.knob.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\jquery-steps-master\\build\\jquery.steps.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\jquery-steps-master\\build\\jquery.steps.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\jquery-toast-plugin-master\\src\\jquery.toast.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\jquery-toast-plugin-master\\src\\jquery.toast.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\jquery-toast-plugin-master\\src\\jquery.toast.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\jquery-toast-plugin-master\\src\\jquery.toast.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\jquery-ui\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\jquery-ui\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\jquery-ui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\jquery-ui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\jquery-validation-1.17.0\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\jquery-validation-1.17.0\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\jquery.peity\\jquery.peity.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\jquery.peity\\jquery.peity.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\jvectormap\\lib2\\jquery-jvectormap-2.0.2.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\jvectormap\\lib2\\jquery-jvectormap-2.0.2.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\jvectormap\\lib2\\jquery-jvectormap-2.0.2.min.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\jvectormap\\lib2\\jquery-jvectormap-2.0.2.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\jvectormap\\lib2\\jquery-jvectormap-au-mill.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\jvectormap\\lib2\\jquery-jvectormap-au-mill.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\jvectormap\\lib2\\jquery-jvectormap-in-mill.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\jvectormap\\lib2\\jquery-jvectormap-in-mill.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\jvectormap\\lib2\\jquery-jvectormap-uk-mill-en.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\jvectormap\\lib2\\jquery-jvectormap-uk-mill-en.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\jvectormap\\lib2\\jquery-jvectormap-us-aea-en.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\jvectormap\\lib2\\jquery-jvectormap-us-aea-en.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\jvectormap\\lib2\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\jvectormap\\lib2\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\jvectormap\\lib2\\jvectormap.custom.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\jvectormap\\lib2\\jvectormap.custom.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\lightbox-master\\dist\\ekko-lightbox.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\lightbox-master\\dist\\ekko-lightbox.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\marked\\marked.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\marked\\marked.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\moment\\min\\moment.min.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\moment\\min\\moment.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\moment\\src\\moment2.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\moment\\src\\moment2.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\morris.js\\morris.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\morris.js\\morris.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\morris.js\\morris.min.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\morris.js\\morris.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\nestable\\jquery.nestable.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\nestable\\jquery.nestable.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\nestable\\nestable.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\nestable\\nestable.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\perfect-scrollbar-master\\perfect-scrollbar.jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\perfect-scrollbar-master\\perfect-scrollbar.jquery.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\perfect-scrollbar\\css\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\perfect-scrollbar\\css\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\prism\\prism.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\prism\\prism.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\prism\\prism.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\prism\\prism.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\raphael\\raphael.min.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\raphael\\raphael.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\raty-master\\lib\\jquery.raty.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\raty-master\\lib\\jquery.raty.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\raty-master\\lib\\jquery.raty.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\raty-master\\lib\\jquery.raty.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\select2\\dist\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\select2\\dist\\css\\select2.min.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\select2\\dist\\js\\select2.full.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\select2\\dist\\js\\select2.full.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\sweetalert\\jquery.sweet-alert.custom.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\sweetalert\\jquery.sweet-alert.custom.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\sweetalert\\sweetalert.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\sweetalert\\sweetalert.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\sweetalert\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\sweetalert\\sweetalert.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\tiny-editable\\mindmup-editabletable.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\tiny-editable\\mindmup-editabletable.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\tiny-editable\\numeric-input-example.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\tiny-editable\\numeric-input-example.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\to-markdown\\to-markdown.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\to-markdown\\to-markdown.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\weather-icons\\weather-icons.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\weather-icons\\weather-icons.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\x-editable\\dist\\bootstrap3-editable\\css\\bootstrap-editable.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\x-editable\\dist\\bootstrap3-editable\\css\\bootstrap-editable.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_components\\x-editable\\dist\\bootstrap3-editable\\js\\bootstrap-editable.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_components\\x-editable\\dist\\bootstrap3-editable\\js\\bootstrap-editable.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_plugins\\JqueryPrintArea\\demo\\jquery.PrintArea.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_plugins\\JqueryPrintArea\\demo\\jquery.PrintArea.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_plugins\\ace-builds-master\\src-min-noconflict\\ace.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_plugins\\ace-builds-master\\src-min-noconflict\\ace.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_plugins\\bootstrap-slider\\bootstrap-slider.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_plugins\\bootstrap-slider\\bootstrap-slider.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_plugins\\bootstrap-slider\\slider.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_plugins\\bootstrap-slider\\slider.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.all.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.all.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.all.min.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.all.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.min.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_plugins\\bootstrap-wysihtml5\\bootstrap3-wysihtml5.min.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_plugins\\iCheck\\all.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_plugins\\iCheck\\all.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_plugins\\iCheck\\flat\\blue.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_plugins\\iCheck\\flat\\blue.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_plugins\\iCheck\\icheck.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_plugins\\iCheck\\icheck.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_plugins\\iCheck\\icheck.min.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_plugins\\iCheck\\icheck.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_plugins\\input-mask\\jquery.inputmask.date.extensions.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_plugins\\input-mask\\jquery.inputmask.date.extensions.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_plugins\\input-mask\\jquery.inputmask.extensions.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_plugins\\input-mask\\jquery.inputmask.extensions.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_plugins\\input-mask\\jquery.inputmask.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_plugins\\input-mask\\jquery.inputmask.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_plugins\\pace\\pace.min.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_plugins\\pace\\pace.min.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_plugins\\timepicker\\bootstrap-timepicker.min.css",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_plugins\\timepicker\\bootstrap-timepicker.min.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_plugins\\timepicker\\bootstrap-timepicker.min.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_plugins\\timepicker\\bootstrap-timepicker.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\assets\\vendor_plugins\\weather-icons\\WeatherIcon.js",
+      "PackagePath": "staticwebassets\\lib\\assets\\vendor_plugins\\weather-icons\\WeatherIcon.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\150x100.png",
+      "PackagePath": "staticwebassets\\lib\\images\\150x100.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\abstract-1.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\abstract-1.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\abstract-2.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\abstract-2.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\abstract-3.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\abstract-3.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\alert\\alert.png",
+      "PackagePath": "staticwebassets\\lib\\images\\alert\\alert.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\alert\\alert2.png",
+      "PackagePath": "staticwebassets\\lib\\images\\alert\\alert2.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\alert\\alert3.png",
+      "PackagePath": "staticwebassets\\lib\\images\\alert\\alert3.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\alert\\alert4.png",
+      "PackagePath": "staticwebassets\\lib\\images\\alert\\alert4.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\alert\\alert5.png",
+      "PackagePath": "staticwebassets\\lib\\images\\alert\\alert5.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\alert\\alert6.png",
+      "PackagePath": "staticwebassets\\lib\\images\\alert\\alert6.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\alert\\alert7.png",
+      "PackagePath": "staticwebassets\\lib\\images\\alert\\alert7.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\auth-bg\\404.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\auth-bg\\404.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\auth-bg\\500.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\auth-bg\\500.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\auth-bg\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\auth-bg\\bg-1.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\auth-bg\\bg-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\auth-bg\\bg-2.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\auth-bg\\bg-4.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\auth-bg\\bg-4.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\auth-bg\\bg-5.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\auth-bg\\bg-5.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar.png",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar04.png",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar04.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar2.png",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar2.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar3.png",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar3.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar5.png",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar5.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar\\1.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar\\1.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar\\2.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar\\2.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar\\3.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar\\3.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar\\375x200\\1.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar\\375x200\\1.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar\\375x200\\2.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar\\375x200\\2.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar\\375x200\\3.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar\\375x200\\3.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar\\375x200\\4.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar\\375x200\\4.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar\\375x200\\5.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar\\375x200\\5.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar\\375x200\\6.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar\\375x200\\6.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar\\375x200\\7.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar\\375x200\\7.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar\\375x200\\8.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar\\375x200\\8.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar\\4.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar\\4.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar\\5.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar\\5.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar\\6.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar\\6.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar\\7.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar\\7.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar\\8.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar\\8.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar\\9.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar\\9.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar\\avatar-1.png",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar\\avatar-1.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar\\avatar-10.png",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar\\avatar-10.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar\\avatar-11.png",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar\\avatar-11.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar\\avatar-12.png",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar\\avatar-12.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar\\avatar-13.png",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar\\avatar-13.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar\\avatar-15.png",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar\\avatar-15.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar\\avatar-16.png",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar\\avatar-16.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar\\avatar-2.png",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar\\avatar-2.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar\\avatar-3.png",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar\\avatar-3.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar\\avatar-4.png",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar\\avatar-4.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar\\avatar-5.png",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar\\avatar-5.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar\\avatar-6.png",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar\\avatar-6.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar\\avatar-7.png",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar\\avatar-7.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar\\avatar-8.png",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar\\avatar-8.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar\\avatar-9.png",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar\\avatar-9.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\avatar\\default.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\avatar\\default.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\bg-1.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\bg-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\bg-2.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\bmi.png",
+      "PackagePath": "staticwebassets\\lib\\images\\bmi.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\card\\1.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\card\\1.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\card\\2.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\card\\2.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\card\\3.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\card\\3.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\card\\img1.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\card\\img1.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\card\\img2.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\card\\img2.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\card\\img3.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\card\\img3.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\card\\img4.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\card\\img4.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\check-1.png",
+      "PackagePath": "staticwebassets\\lib\\images\\check-1.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\check-2.png",
+      "PackagePath": "staticwebassets\\lib\\images\\check-2.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\lib\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\front-end-img\\courses\\1.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\front-end-img\\courses\\1.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\front-end-img\\courses\\11f.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\front-end-img\\courses\\11f.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\front-end-img\\courses\\13.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\front-end-img\\courses\\13.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\front-end-img\\courses\\14.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\front-end-img\\courses\\14.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\front-end-img\\courses\\1f.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\front-end-img\\courses\\1f.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\front-end-img\\courses\\9f.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\front-end-img\\courses\\9f.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\creative\\img-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\creative\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\creative\\img-10.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\creative\\img-10.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\creative\\img-12.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\creative\\img-12.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\creative\\img-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\creative\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\creative\\img-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\creative\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\creative\\img-4.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\creative\\img-4.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\creative\\img-5.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\creative\\img-5.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\creative\\img-7.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\creative\\img-7.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\creative\\img-8.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\creative\\img-8.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\creative\\img-9.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\creative\\img-9.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\full\\1.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\full\\1.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\full\\10.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\full\\10.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\full\\2.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\full\\2.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\full\\3.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\full\\3.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\full\\slide-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\full\\slide-1.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\full\\slide-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\full\\slide-2.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\full\\slide-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\full\\slide-3.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\full\\slide-4.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\full\\slide-4.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\landscape1.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\landscape1.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\landscape10.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\landscape10.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\landscape11.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\landscape11.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\landscape12.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\landscape12.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\landscape13.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\landscape13.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\landscape14.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\landscape14.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\landscape15.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\landscape15.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\landscape16.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\landscape16.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\landscape17.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\landscape17.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\landscape18.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\landscape18.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\landscape2.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\landscape2.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\landscape3.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\landscape3.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\landscape4.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\landscape4.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\landscape5.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\landscape5.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\landscape6.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\landscape6.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\landscape7.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\landscape7.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\landscape8.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\landscape8.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\landscape9.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\landscape9.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\studio1.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\studio1.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\studio10.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\studio10.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\studio11.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\studio11.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\studio12.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\studio12.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\studio13.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\studio13.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\studio14.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\studio14.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\studio15.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\studio15.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\studio16.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\studio16.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\studio17.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\studio17.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\studio18.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\studio18.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\studio19.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\studio19.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\studio2.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\studio2.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\studio20.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\studio20.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\studio21.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\studio21.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\studio22.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\studio22.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\studio23.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\studio23.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\studio24.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\studio24.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\studio25.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\studio25.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\studio26.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\studio26.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\studio27.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\studio27.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\studio3.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\studio3.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\studio4.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\studio4.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\studio5.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\studio5.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\studio6.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\studio6.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\studio7.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\studio7.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\studio8.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\studio8.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\studio9.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\studio9.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\thumb-sm\\1.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\thumb-sm\\1.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\thumb-sm\\12.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\thumb-sm\\12.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\thumb-sm\\15.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\thumb-sm\\15.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\thumb-sm\\5.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\thumb-sm\\5.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\thumb-sm\\6.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\thumb-sm\\6.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\thumb\\1.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\thumb\\1.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\thumb\\10.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\thumb\\10.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\thumb\\11.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\thumb\\11.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\thumb\\12.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\thumb\\12.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\thumb\\13.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\thumb\\13.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\thumb\\14.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\thumb\\14.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\thumb\\15.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\thumb\\15.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\thumb\\18.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\thumb\\18.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\thumb\\19.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\thumb\\19.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\thumb\\2.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\thumb\\2.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\thumb\\3.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\thumb\\3.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\thumb\\4.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\thumb\\4.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\thumb\\5.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\thumb\\5.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\thumb\\6.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\thumb\\6.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\thumb\\7.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\thumb\\7.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\thumb\\8.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\thumb\\8.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\gallery\\thumb\\9.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\gallery\\thumb\\9.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\glucose-meter.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\glucose-meter.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\health-1-color.png",
+      "PackagePath": "staticwebassets\\lib\\images\\health-1-color.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\health-2-color.png",
+      "PackagePath": "staticwebassets\\lib\\images\\health-2-color.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\human.png",
+      "PackagePath": "staticwebassets\\lib\\images\\human.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\img1.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\img1.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\img2.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\img2.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\img3.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\img3.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\logo-dark-text.png",
+      "PackagePath": "staticwebassets\\lib\\images\\logo-dark-text.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\logo-letter.png",
+      "PackagePath": "staticwebassets\\lib\\images\\logo-letter.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\logo-light-text.png",
+      "PackagePath": "staticwebassets\\lib\\images\\logo-light-text.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\pdf.png",
+      "PackagePath": "staticwebassets\\lib\\images\\pdf.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\petri-dish.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\petri-dish.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\photo1.png",
+      "PackagePath": "staticwebassets\\lib\\images\\photo1.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\photo2.png",
+      "PackagePath": "staticwebassets\\lib\\images\\photo2.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\photo3.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\photo3.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\photo4.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\photo4.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\placeholder.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\placeholder.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\preloaders\\1.gif",
+      "PackagePath": "staticwebassets\\lib\\images\\preloaders\\1.gif"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\preview\\1200x675.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\preview\\1200x675.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\preview\\coming-soon-1.png",
+      "PackagePath": "staticwebassets\\lib\\images\\preview\\coming-soon-1.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\preview\\coming-soon-2.png",
+      "PackagePath": "staticwebassets\\lib\\images\\preview\\coming-soon-2.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\preview\\coming-soon-3.png",
+      "PackagePath": "staticwebassets\\lib\\images\\preview\\coming-soon-3.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\preview\\email-change-pass.png",
+      "PackagePath": "staticwebassets\\lib\\images\\preview\\email-change-pass.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\preview\\email-closed-account.png",
+      "PackagePath": "staticwebassets\\lib\\images\\preview\\email-closed-account.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\preview\\email-expired-card.png",
+      "PackagePath": "staticwebassets\\lib\\images\\preview\\email-expired-card.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\preview\\email-update.png",
+      "PackagePath": "staticwebassets\\lib\\images\\preview\\email-update.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\preview\\email-verify-email.png",
+      "PackagePath": "staticwebassets\\lib\\images\\preview\\email-verify-email.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\preview\\email-welcome.png",
+      "PackagePath": "staticwebassets\\lib\\images\\preview\\email-welcome.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\product\\product-1.png",
+      "PackagePath": "staticwebassets\\lib\\images\\product\\product-1.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\product\\product-10.png",
+      "PackagePath": "staticwebassets\\lib\\images\\product\\product-10.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\product\\product-11.png",
+      "PackagePath": "staticwebassets\\lib\\images\\product\\product-11.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\product\\product-12.png",
+      "PackagePath": "staticwebassets\\lib\\images\\product\\product-12.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\product\\product-2.png",
+      "PackagePath": "staticwebassets\\lib\\images\\product\\product-2.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\product\\product-3.png",
+      "PackagePath": "staticwebassets\\lib\\images\\product\\product-3.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\product\\product-4.png",
+      "PackagePath": "staticwebassets\\lib\\images\\product\\product-4.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\product\\product-5.png",
+      "PackagePath": "staticwebassets\\lib\\images\\product\\product-5.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\product\\product-6.png",
+      "PackagePath": "staticwebassets\\lib\\images\\product\\product-6.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\product\\product-7.png",
+      "PackagePath": "staticwebassets\\lib\\images\\product\\product-7.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\product\\product-8.png",
+      "PackagePath": "staticwebassets\\lib\\images\\product\\product-8.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\product\\product-9.png",
+      "PackagePath": "staticwebassets\\lib\\images\\product\\product-9.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\smoking.png",
+      "PackagePath": "staticwebassets\\lib\\images\\smoking.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\svg-icon\\color-svg\\001-glass.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\svg-icon\\color-svg\\001-glass.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\svg-icon\\color-svg\\002-google.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\svg-icon\\color-svg\\002-google.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\svg-icon\\color-svg\\003-settings.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\svg-icon\\color-svg\\003-settings.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\svg-icon\\color-svg\\004-dad.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\svg-icon\\color-svg\\004-dad.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\svg-icon\\color-svg\\005-paint-palette.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\svg-icon\\color-svg\\005-paint-palette.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\svg-icon\\color-svg\\006-pottery.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\svg-icon\\color-svg\\006-pottery.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\svg-icon\\color-svg\\007-color-palette.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\svg-icon\\color-svg\\007-color-palette.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\svg-icon\\color-svg\\008-python.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\svg-icon\\color-svg\\008-python.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\svg-icon\\color-svg\\custom-17.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\svg-icon\\color-svg\\custom-17.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\svg-icon\\color-svg\\custom-18.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\svg-icon\\color-svg\\custom-18.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\svg-icon\\color-svg\\custom-19.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\svg-icon\\color-svg\\custom-19.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\svg-icon\\color-svg\\custom-2.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\svg-icon\\color-svg\\custom-2.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\svg-icon\\color-svg\\custom-20.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\svg-icon\\color-svg\\custom-20.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\svg-icon\\color-svg\\custom-21.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\svg-icon\\color-svg\\custom-21.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\svg-icon\\color-svg\\custom-22.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\svg-icon\\color-svg\\custom-22.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\svg-icon\\color-svg\\custom-23.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\svg-icon\\color-svg\\custom-23.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\svg-icon\\color-svg\\custom-3.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\svg-icon\\color-svg\\custom-3.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\svg-icon\\color-svg\\custom-4.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\svg-icon\\color-svg\\custom-4.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\svg-icon\\color-svg\\custom-5.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\svg-icon\\color-svg\\custom-5.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\svg-icon\\color-svg\\custom-6.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\svg-icon\\color-svg\\custom-6.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\svg-icon\\color-svg\\custom-7.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\svg-icon\\color-svg\\custom-7.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\svg-icon\\flat-color-icons\\SVG\\news.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\svg-icon\\flat-color-icons\\SVG\\news.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\svg-icon\\medical\\blood-test.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\svg-icon\\medical\\blood-test.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\svg-icon\\medical\\body.png",
+      "PackagePath": "staticwebassets\\lib\\images\\svg-icon\\medical\\body.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\svg-icon\\medical\\brain.png",
+      "PackagePath": "staticwebassets\\lib\\images\\svg-icon\\medical\\brain.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\svg-icon\\medical\\heart.png",
+      "PackagePath": "staticwebassets\\lib\\images\\svg-icon\\medical\\heart.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\svg-icon\\medical\\icon-heart.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\svg-icon\\medical\\icon-heart.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\svg-icon\\medical\\liver.png",
+      "PackagePath": "staticwebassets\\lib\\images\\svg-icon\\medical\\liver.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\svg-icon\\medical\\lungs.png",
+      "PackagePath": "staticwebassets\\lib\\images\\svg-icon\\medical\\lungs.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\svg-icon\\medical\\stomach.png",
+      "PackagePath": "staticwebassets\\lib\\images\\svg-icon\\medical\\stomach.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\svg-icon\\medical\\x-ray.svg",
+      "PackagePath": "staticwebassets\\lib\\images\\svg-icon\\medical\\x-ray.svg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\user-info.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\user-info.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\user1-128x128.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\user3-128x128.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\user4-128x128.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\user5-128x128.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\user6-128x128.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\user7-128x128.jpg"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\images\\weight.png",
+      "PackagePath": "staticwebassets\\lib\\images\\weight.png"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\appointments.html",
+      "PackagePath": "staticwebassets\\main\\appointments.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\auth_lockscreen.html",
+      "PackagePath": "staticwebassets\\main\\auth_lockscreen.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\auth_login.html",
+      "PackagePath": "staticwebassets\\main\\auth_login.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\auth_register.html",
+      "PackagePath": "staticwebassets\\main\\auth_register.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\auth_user_pass.html",
+      "PackagePath": "staticwebassets\\main\\auth_user_pass.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\box_advanced.html",
+      "PackagePath": "staticwebassets\\main\\box_advanced.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\box_basic.html",
+      "PackagePath": "staticwebassets\\main\\box_basic.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\box_cards.html",
+      "PackagePath": "staticwebassets\\main\\box_cards.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\box_color.html",
+      "PackagePath": "staticwebassets\\main\\box_color.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\box_group.html",
+      "PackagePath": "staticwebassets\\main\\box_group.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\charts_c3_axis.html",
+      "PackagePath": "staticwebassets\\main\\charts_c3_axis.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\charts_c3_bar.html",
+      "PackagePath": "staticwebassets\\main\\charts_c3_bar.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\charts_c3_data.html",
+      "PackagePath": "staticwebassets\\main\\charts_c3_data.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\charts_c3_line.html",
+      "PackagePath": "staticwebassets\\main\\charts_c3_line.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\charts_chartist.html",
+      "PackagePath": "staticwebassets\\main\\charts_chartist.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\charts_chartjs.html",
+      "PackagePath": "staticwebassets\\main\\charts_chartjs.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\charts_echarts_bar.html",
+      "PackagePath": "staticwebassets\\main\\charts_echarts_bar.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\charts_echarts_basic.html",
+      "PackagePath": "staticwebassets\\main\\charts_echarts_basic.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\charts_echarts_pie_doughnut.html",
+      "PackagePath": "staticwebassets\\main\\charts_echarts_pie_doughnut.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\charts_flot.html",
+      "PackagePath": "staticwebassets\\main\\charts_flot.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\charts_inline.html",
+      "PackagePath": "staticwebassets\\main\\charts_inline.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\charts_morris.html",
+      "PackagePath": "staticwebassets\\main\\charts_morris.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\charts_peity.html",
+      "PackagePath": "staticwebassets\\main\\charts_peity.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\component_animations.html",
+      "PackagePath": "staticwebassets\\main\\component_animations.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\component_bootstrap_switch.html",
+      "PackagePath": "staticwebassets\\main\\component_bootstrap_switch.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\component_date_paginator.html",
+      "PackagePath": "staticwebassets\\main\\component_date_paginator.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\component_media_advanced.html",
+      "PackagePath": "staticwebassets\\main\\component_media_advanced.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\component_modals.html",
+      "PackagePath": "staticwebassets\\main\\component_modals.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\component_nestable.html",
+      "PackagePath": "staticwebassets\\main\\component_nestable.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\component_notification.html",
+      "PackagePath": "staticwebassets\\main\\component_notification.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\component_portlet_draggable.html",
+      "PackagePath": "staticwebassets\\main\\component_portlet_draggable.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\component_rangeslider.html",
+      "PackagePath": "staticwebassets\\main\\component_rangeslider.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\component_rating.html",
+      "PackagePath": "staticwebassets\\main\\component_rating.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\component_sweatalert.html",
+      "PackagePath": "staticwebassets\\main\\component_sweatalert.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\contact_app.html",
+      "PackagePath": "staticwebassets\\main\\contact_app.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\contact_app_chat.html",
+      "PackagePath": "staticwebassets\\main\\contact_app_chat.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\contact_userlist.html",
+      "PackagePath": "staticwebassets\\main\\contact_userlist.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\contact_userlist_grid.html",
+      "PackagePath": "staticwebassets\\main\\contact_userlist_grid.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\doctor_list.html",
+      "PackagePath": "staticwebassets\\main\\doctor_list.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\doctors.html",
+      "PackagePath": "staticwebassets\\main\\doctors.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\ecommerce_cart.html",
+      "PackagePath": "staticwebassets\\main\\ecommerce_cart.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\ecommerce_checkout.html",
+      "PackagePath": "staticwebassets\\main\\ecommerce_checkout.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\ecommerce_details.html",
+      "PackagePath": "staticwebassets\\main\\ecommerce_details.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\ecommerce_orders.html",
+      "PackagePath": "staticwebassets\\main\\ecommerce_orders.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\ecommerce_products.html",
+      "PackagePath": "staticwebassets\\main\\ecommerce_products.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\ecommerce_products_edit.html",
+      "PackagePath": "staticwebassets\\main\\ecommerce_products_edit.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\email_change_pass.html",
+      "PackagePath": "staticwebassets\\main\\email_change_pass.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\email_closed_account.html",
+      "PackagePath": "staticwebassets\\main\\email_closed_account.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\email_expired_card.html",
+      "PackagePath": "staticwebassets\\main\\email_expired_card.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\email_index.html",
+      "PackagePath": "staticwebassets\\main\\email_index.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\email_update.html",
+      "PackagePath": "staticwebassets\\main\\email_update.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\email_verify_email.html",
+      "PackagePath": "staticwebassets\\main\\email_verify_email.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\email_welcome.html",
+      "PackagePath": "staticwebassets\\main\\email_welcome.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\error_404.html",
+      "PackagePath": "staticwebassets\\main\\error_404.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\error_500.html",
+      "PackagePath": "staticwebassets\\main\\error_500.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\error_maintenance.html",
+      "PackagePath": "staticwebassets\\main\\error_maintenance.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\extension_fullscreen.html",
+      "PackagePath": "staticwebassets\\main\\extension_fullscreen.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\extension_pace.html",
+      "PackagePath": "staticwebassets\\main\\extension_pace.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\extra_app_ticket.html",
+      "PackagePath": "staticwebassets\\main\\extra_app_ticket.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\extra_calendar.html",
+      "PackagePath": "staticwebassets\\main\\extra_calendar.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\extra_profile.html",
+      "PackagePath": "staticwebassets\\main\\extra_profile.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\extra_taskboard.html",
+      "PackagePath": "staticwebassets\\main\\extra_taskboard.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\forms_advanced.html",
+      "PackagePath": "staticwebassets\\main\\forms_advanced.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\forms_code_editor.html",
+      "PackagePath": "staticwebassets\\main\\forms_code_editor.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\forms_dropzone.html",
+      "PackagePath": "staticwebassets\\main\\forms_dropzone.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\forms_editor_markdown.html",
+      "PackagePath": "staticwebassets\\main\\forms_editor_markdown.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\forms_editors.html",
+      "PackagePath": "staticwebassets\\main\\forms_editors.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\forms_general.html",
+      "PackagePath": "staticwebassets\\main\\forms_general.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\forms_mask.html",
+      "PackagePath": "staticwebassets\\main\\forms_mask.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\forms_validation.html",
+      "PackagePath": "staticwebassets\\main\\forms_validation.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\forms_wizard.html",
+      "PackagePath": "staticwebassets\\main\\forms_wizard.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\forms_xeditable.html",
+      "PackagePath": "staticwebassets\\main\\forms_xeditable.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\icons_cryptocoins.html",
+      "PackagePath": "staticwebassets\\main\\icons_cryptocoins.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\icons_flag.html",
+      "PackagePath": "staticwebassets\\main\\icons_flag.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\icons_fontawesome.html",
+      "PackagePath": "staticwebassets\\main\\icons_fontawesome.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\icons_glyphicons.html",
+      "PackagePath": "staticwebassets\\main\\icons_glyphicons.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\icons_material.html",
+      "PackagePath": "staticwebassets\\main\\icons_material.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\icons_simpleline.html",
+      "PackagePath": "staticwebassets\\main\\icons_simpleline.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\icons_themify.html",
+      "PackagePath": "staticwebassets\\main\\icons_themify.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\icons_weather.html",
+      "PackagePath": "staticwebassets\\main\\icons_weather.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\index2.html",
+      "PackagePath": "staticwebassets\\main\\index2.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\index3.html",
+      "PackagePath": "staticwebassets\\main\\index3.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\index4.html",
+      "PackagePath": "staticwebassets\\main\\index4.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\index5.html",
+      "PackagePath": "staticwebassets\\main\\index5.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\index6.html",
+      "PackagePath": "staticwebassets\\main\\index6.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\index7.html",
+      "PackagePath": "staticwebassets\\main\\index7.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\invoice.html",
+      "PackagePath": "staticwebassets\\main\\invoice.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\invoicelist.html",
+      "PackagePath": "staticwebassets\\main\\invoicelist.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\mailbox.html",
+      "PackagePath": "staticwebassets\\main\\mailbox.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\map_google.html",
+      "PackagePath": "staticwebassets\\main\\map_google.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\map_vector.html",
+      "PackagePath": "staticwebassets\\main\\map_vector.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\patient_details.html",
+      "PackagePath": "staticwebassets\\main\\patient_details.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\patients.html",
+      "PackagePath": "staticwebassets\\main\\patients.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\reports.html",
+      "PackagePath": "staticwebassets\\main\\reports.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\sample_blank.html",
+      "PackagePath": "staticwebassets\\main\\sample_blank.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\sample_coming_soon.html",
+      "PackagePath": "staticwebassets\\main\\sample_coming_soon.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\sample_coming_soon_1.html",
+      "PackagePath": "staticwebassets\\main\\sample_coming_soon_1.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\sample_coming_soon_2.html",
+      "PackagePath": "staticwebassets\\main\\sample_coming_soon_2.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\sample_coming_soon_3.html",
+      "PackagePath": "staticwebassets\\main\\sample_coming_soon_3.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\sample_custom_scroll.html",
+      "PackagePath": "staticwebassets\\main\\sample_custom_scroll.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\sample_faq.html",
+      "PackagePath": "staticwebassets\\main\\sample_faq.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\sample_gallery.html",
+      "PackagePath": "staticwebassets\\main\\sample_gallery.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\sample_lightbox.html",
+      "PackagePath": "staticwebassets\\main\\sample_lightbox.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\sample_pricing.html",
+      "PackagePath": "staticwebassets\\main\\sample_pricing.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\tables_color.html",
+      "PackagePath": "staticwebassets\\main\\tables_color.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\tables_data.html",
+      "PackagePath": "staticwebassets\\main\\tables_data.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\tables_editable.html",
+      "PackagePath": "staticwebassets\\main\\tables_editable.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\tables_simple.html",
+      "PackagePath": "staticwebassets\\main\\tables_simple.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\ui_badges.html",
+      "PackagePath": "staticwebassets\\main\\ui_badges.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\ui_border_utilities.html",
+      "PackagePath": "staticwebassets\\main\\ui_border_utilities.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\ui_buttons.html",
+      "PackagePath": "staticwebassets\\main\\ui_buttons.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\ui_color_utilities.html",
+      "PackagePath": "staticwebassets\\main\\ui_color_utilities.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\ui_dropdown.html",
+      "PackagePath": "staticwebassets\\main\\ui_dropdown.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\ui_dropdown_grid.html",
+      "PackagePath": "staticwebassets\\main\\ui_dropdown_grid.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\ui_grid.html",
+      "PackagePath": "staticwebassets\\main\\ui_grid.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\ui_progress_bars.html",
+      "PackagePath": "staticwebassets\\main\\ui_progress_bars.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\ui_ribbons.html",
+      "PackagePath": "staticwebassets\\main\\ui_ribbons.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\ui_sliders.html",
+      "PackagePath": "staticwebassets\\main\\ui_sliders.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\ui_tab.html",
+      "PackagePath": "staticwebassets\\main\\ui_tab.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\ui_timeline.html",
+      "PackagePath": "staticwebassets\\main\\ui_timeline.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\ui_timeline_horizontal.html",
+      "PackagePath": "staticwebassets\\main\\ui_timeline_horizontal.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\ui_typography.html",
+      "PackagePath": "staticwebassets\\main\\ui_typography.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\widgets.html",
+      "PackagePath": "staticwebassets\\main\\widgets.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\widgets_blog.html",
+      "PackagePath": "staticwebassets\\main\\widgets_blog.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\widgets_chart.html",
+      "PackagePath": "staticwebassets\\main\\widgets_chart.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\widgets_list.html",
+      "PackagePath": "staticwebassets\\main\\widgets_list.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\widgets_social.html",
+      "PackagePath": "staticwebassets\\main\\widgets_social.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\widgets_statistic.html",
+      "PackagePath": "staticwebassets\\main\\widgets_statistic.html"
+    },
+    {
+      "Id": "C:\\documents\\Doclinic\\Doclinic\\DoclinicBack\\DoclinicBack\\wwwroot\\main\\widgets_weather.html",
+      "PackagePath": "staticwebassets\\main\\widgets_weather.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.DoclinicBack.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.DoclinicBack.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.DoclinicBack.props",
+      "PackagePath": "build\\DoclinicBack.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.DoclinicBack.props",
+      "PackagePath": "buildMultiTargeting\\DoclinicBack.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.DoclinicBack.props",
+      "PackagePath": "buildTransitive\\DoclinicBack.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
